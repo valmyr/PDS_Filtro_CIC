@@ -8,7 +8,7 @@
 
 ### **Ferramentas**                :  Quartus prime II, Xcelium e o Simvision.
 
-Estrutura do Projeto Os seguintes módulos foram implementados:
+### Estrutura do Projeto Os seguintes módulos foram implementados:
 
     AlinxModTest.sv -> Modulo topo Quartus Prime II
     

@@ -26,7 +26,9 @@
     
     filtro_em_cascata.sv -> Combinação do filtro.
 
+DAC modulado em PWM com RC.
 ![Alt text](./CIC/pwm_test_dac.jpg)
+
 
     Referências: https://www.dsprelated.com/showarticle/1337.php
 

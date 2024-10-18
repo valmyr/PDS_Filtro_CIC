@@ -10,24 +10,28 @@
 
 ### Estrutura do Projeto - Os seguintes módulos foram implementados:
 
-    AlinxModTest.sv -> Modulo topo Quartus Prime II
+    ./CIC/AlinxModTest.sv -> Modulo topo Quartus Prime II
     
-    divClock.sv     -> Divisor de frequência
+    ./CIC/divClock.sv     -> Divisor de frequência
     
-    Integrator.sv   -> Integrador do filtro 
+    ./CIC/Integrator.sv   -> Integrador do filtro 
     
-    Comb.sv         -> Diferenciador do filtro
+    ./CIC/Comb.sv         -> Diferenciador do filtro
     
-    PWM.sv         -> Modulação PWM para dac
+    ./CIC/PWM.sv         -> Modulação PWM para dac
     
-    ->sawtooth_wave.sv portadora
+    ->./CIC/sawtooth_wave.sv portadora
     
-    ->cos_wave.sv      modulante
+    ->./CIC/cos_wave.sv      modulante
+
+    ./CIC/test_pwm.sv -> teste de funcionamento
     
-    filtro_em_cascata.sv -> Combinação do filtro.
+    ./CIC/filtro_em_cascata.sv -> Combinação do filtro.
 
     *ipynb gerador de formas de ondas.
-
+    *mp4 vídeo de funcionamento
+    *pdf apresentação
+    *txt formas de onda em hex
 FPGA usada
 
 ![Alt text](./CIC/Alinx-ax4010-altera-cyclone-iv-ep4ce10-placa-de-estudo-de-n-vel-de-entrada-placa-fpga.jpg)

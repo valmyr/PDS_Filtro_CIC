@@ -37,7 +37,7 @@ A seguir, são apresentados os resultados obtidos:
 
 Amarelo: Sinal de entrada Azul: Sinal de saída
 
-![Alt text](./CIC/resultado.png)
+![Alt text](./CIC/resultados.png)
 
 
 Referências DSPRelated - Implementação de Filtros Referências:

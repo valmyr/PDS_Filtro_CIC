@@ -1,14 +1,14 @@
 # Repositório dedicado à disciplina de Processamento Digital de Sinais
 
-### **Objetivo do Projeto**        :  Implementação e verificação em hardware de um filtro de média móvel
+### **Objetivo do Projeto**        -  Implementação e verificação em hardware de um filtro de média móvel
 
-### **Topológia do Filtro**        :  Cascaded Integrator–Comb Filter - CIC
+### **Topológia do Filtro**        -  Cascaded Integrator–Comb Filter - CIC
 
-### **Materiais Utilizados**     :  FPGA Cyclone IV, Resistores, Capacitores e um Osciloscópio.
+### **Materiais Utilizados**     -  FPGA Cyclone IV, Resistores, Capacitores e um Osciloscópio.
 
-### **Ferramentas**                :  Quartus prime II, Xcelium e o Simvision.
+### **Ferramentas**                -  Quartus prime II, Xcelium e o Simvision.
 
-### Estrutura do Projeto Os seguintes módulos foram implementados:
+### Estrutura do Projeto - Os seguintes módulos foram implementados:
 
     AlinxModTest.sv -> Modulo topo Quartus Prime II
     

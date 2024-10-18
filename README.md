@@ -10,15 +10,15 @@
 
 
 
-    AlinxModTest.sv -> Modolo topo
+    AlinxModTest.sv -> Modulo topo
     
     divClock.sv     -> Divisor de frequência
     
     Integrator.sv   -> Integrador do filtro 
     
-    Comb.sv         -> Diferênciador do filtro
+    Comb.sv         -> Diferenciador do filtro
     
-    PWM.sv         -> Modulação PWM para p dac
+    PWM.sv         -> Modulação PWM para dac
     
     ->sawtooth_wave.sv portadora
     

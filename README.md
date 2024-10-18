@@ -10,7 +10,7 @@
 
 
 
-    AlinxModTest.sv -> Modulo topo
+    AlinxModTest.sv -> Modulo topo Quartus Prime II
     
     divClock.sv     -> Divisor de frequência
     

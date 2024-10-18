@@ -25,4 +25,5 @@
     ->cos_wave.sv      modulante
     
     filtro_em_cascata.sv -> Combinação do filtro.
-
+![plot](../CIC/pwm_test_dac.jpg)
+![plot](../CIC/pwm_test_dac.jpg)

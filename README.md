@@ -1,4 +1,4 @@
-# Repositório dedicado à disciplina de Processamento Digital de Sinais
+## Repositório dedicado à disciplina de Processamento Digital de Sinais
 
 ### **Objetivo do Projeto**        -  Implementação e verificação em hardware de um filtro de média móvel
 

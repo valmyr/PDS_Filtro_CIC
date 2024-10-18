@@ -9,13 +9,20 @@
 ### **Ferramentas**                :  Quartus prime II, Xcelium e o Simvision.
 
 
-AlinxModTest.sv -> Modolo topo
-divClock.sv     -> Divisor de frequência
-Integrator.sv   -> Integrador do filtro 
-Comb.sv         -> Diferênciador do filtro
-PWM.sv         -> Modulação PWM para p dac
+
+    AlinxModTest.sv -> Modolo topo
+    
+    divClock.sv     -> Divisor de frequência
+    
+    Integrator.sv   -> Integrador do filtro 
+    
+    Comb.sv         -> Diferênciador do filtro
+    
+    PWM.sv         -> Modulação PWM para p dac
     
     ->sawtooth_wave.sv portadora
+    
     ->cos_wave.sv      modulante
-filtro_em_cascata.sv -> Combinação do filtro.
+    
+    filtro_em_cascata.sv -> Combinação do filtro.
 

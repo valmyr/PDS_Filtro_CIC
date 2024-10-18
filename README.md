@@ -26,6 +26,8 @@ Estrutura do Projeto Os seguintes módulos foram implementados:
     
     filtro_em_cascata.sv -> Combinação do filtro.
 
+    *ipynb gerador de formas de ondas.
+
 FPGA usada
 
 ![Alt text](./CIC/Alinx-ax4010-altera-cyclone-iv-ep4ce10-placa-de-estudo-de-n-vel-de-entrada-placa-fpga.jpg)

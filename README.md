@@ -4,7 +4,7 @@
 
 ### **Topológia do Filtro**        :  Cascaded Integrator–Comb Filter - CIC
 
-### **Componentes do Projeto**     :  FPGA Cyclone IV, Resistores, Capacitores e um Osciloscópio.
+### **Material do Projeto**     :  FPGA Cyclone IV, Resistores, Capacitores e um Osciloscópio.
 
 ### **Ferramentas**                :  Quartus prime II, Xcelium e o Simvision.
 
@@ -26,8 +26,14 @@
     
     filtro_em_cascata.sv -> Combinação do filtro.
 
+FPGA usada
+![Alt text](./CIC/Alinx-ax4010-altera-cyclone-iv-ep4ce10-placa-de-estudo-de-n-vel-de-entrada-placa-fpga.jpg)
 DAC modulado em PWM com RC.
 ![Alt text](./CIC/pwm_test_dac.jpg)
+Resultados
+![Alt text](./CIC/resultados.png)
+
+
 
 
     Referências: https://www.dsprelated.com/showarticle/1337.php

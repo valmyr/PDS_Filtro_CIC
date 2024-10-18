@@ -30,16 +30,14 @@ FPGA usada
 
 ![Alt text](./CIC/Alinx-ax4010-altera-cyclone-iv-ep4ce10-placa-de-estudo-de-n-vel-de-entrada-placa-fpga.jpg)
 
-Observação: Devido à ausência de um conversor digital-analógico na FPGA, foi implementada uma solução utilizando modulação PWM acoplada a um circuito RC para reconstruir o sinal analógico associado. DAC modulado em PWM com RC.
-
+Observação: Devido à ausência de um conversor digital-analógico na FPGA, foi implementada uma solução utilizando modulação PWM acoplada a um circuito RC para reconstruir o sinal analógico associado.
 ![Alt text](./CIC/pwm_test_dac.jpg)
 
 A seguir, são apresentados os resultados obtidos:
 
 Amarelo: Sinal de entrada Azul: Sinal de saída
 
-![Alt text](./CIC/resultado.)
-
+![Alt text](./CIC/resultado.png)
 
 
 Referências DSPRelated - Implementação de Filtros Referências:
